@@ -9,3 +9,6 @@ Do not collect PHI in the demo scheduler. Production healthcare use requires an 
 
 ## Deployment
 Designed for Vercel. GitHub should remain the source of truth; local Windows/OneDrive folders are optional working copies only.
+
+
+Deployment trigger: 2026-09-19 — GitHub-connected Vercel production.
